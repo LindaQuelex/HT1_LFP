@@ -1,3 +1,13 @@
+# HOJA DE TRABAJO 1
+* UNIVERSIDAD DE SAN CARLOS DE GUATEMALA 
+* Laboratorio de Lenguajes Formales de Programación 
+* Linda Madelin Fabiola Quelex Sep
+* 201403745
+
+
+# Código fuente
+
+```
 #HOJA DE TRABAJO 1
 import re
 
@@ -90,3 +100,16 @@ prueba.Oracion(p2)
 prueba.Oracion(p3)
 prueba.Oracion(p4)
 print('\n')
+
+```
+
+# Salidas 
+
+ A continuación se presenta la salida de las pruebas del código.
+
+
+<p>Detalle</p>
+<p><img src="HT1_LFP\SALIDA1.png" /></p>
+<p>Continuación</p>
+<p><img src="HT1_LFP\SALIDA2.png" /></p>
+
